@@ -1,0 +1,6 @@
+This is a short guide to adding this engine to your project. (check nicolaiportfolio.com/2d_game_engine.html for more help)
+
+1. Add the content in the DLLs folder to the folder where you have your executable.
+2. Add the content in the Engine folder to an include folder.
+3. Add the content in the lib folder to your library folder.
+4. Add #include "Engine.h" to your code whenever you wanna use this project.
